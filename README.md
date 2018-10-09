@@ -24,5 +24,3 @@ Neural models are implemented in
 * Tensorflow
 * Keras
 * Tflearn
-
-Thanks note to siraj, youtuber.
